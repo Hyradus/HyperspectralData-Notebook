@@ -1,0 +1,13 @@
+cufflinks
+fiona
+geopandas
+matplotlib
+numpy
+plotly
+pandas
+scikit-image
+sklearn
+rasterio
+rioxarray
+shapely
+spectral
