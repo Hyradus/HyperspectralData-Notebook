@@ -11,3 +11,4 @@ rasterio
 rioxarray
 shapely
 spectral
+specdal
